@@ -24,18 +24,6 @@ B.Tech CS undergrad at **VIT (AI/ML specialization)** — I build end-to-end int
 
 ---
 
-## 🚀 Projects
-
-| Project | What it does | Stack | Deploy |
-|---|---|---|---|
-| [🚢 shipment-tracking-env](https://github.com/VJ70/shipment-tracking-env) | Gym-compatible RL environment for logistics — custom state spaces, action sets & reward shaping | Python, OpenEnv, Gymnasium | [![HF](https://img.shields.io/badge/Live-HuggingFace-FF4F00?logo=huggingface&logoColor=white)]((https://huggingface.co/spaces/VJ7-7/shipment-tracking-env)) |
-| [⚙️ MLFlow](https://github.com/VJ70/MLFlow) | End-to-end ML pipeline with data preprocessing → training → evaluation, JWT auth & CI/CD | AWS, MLflow, Streamlit, FastAPI | [![Repo](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/VJ70/MLFlow) |
-| [📈 Alpha_Gen](https://github.com/VJ70/Alpha_Gen) | Automated alpha signal generation + backtesting via BRAIN API; evaluates Sharpe ratio & drawdown | Python, Ollama, BRAIN API, Docker | [![Repo](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/VJ70/Alpha_Gen) |
-| [♟️ AlphaMinus](https://github.com/VJ70/AlphaMinus) | AlphaZero-inspired RL agent using Monte Carlo Tree Search from scratch | Python, PyTorch, MCTS | [![Repo](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/VJ70/AlphaMinus) |
-| [✍️ VAAGMI](https://github.com/VJ70/VAAGMI) | GenAI-powered creative writing tool with LLM backend | JavaScript, LLM APIs | [![Repo](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/VJ70/VAAGMI) |
-
----
-
 ## 💻 Tech Stack
 
 **Languages**
